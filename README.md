@@ -1,6 +1,6 @@
 # Skin-Cancer-Detector-using-CNN
  
- Here Datasets must be downloaded from the Kaggle.
+ Datasets can be downloaded from the Kaggle.
  Link to download datasets : https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
   Then extract the datasets with .csv file into same folder Skin-Cancer-Detector-using-CNN
       That is : HAM10000_metadata.csv
@@ -16,6 +16,11 @@ Required Libraries :
     Numpy
     Pandas
     Sklearn
+    glob2
+    ipython
+    PIL
+    seaborn
+ 
  These above libraries are mandatory.
  
  Steps to follow :
